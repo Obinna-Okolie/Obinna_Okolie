@@ -1,5 +1,5 @@
 # Obinna_Okolie.github.io
-Researcher in Oil and Gas procesing, Advanced materials and Smart Manufacturing
+Researcher in Oil and Gas processing, Advanced materials and Smart Manufacturing
 ## Projects
 ### Project 1
 - Description
