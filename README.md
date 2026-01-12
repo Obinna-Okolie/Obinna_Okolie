@@ -1,4 +1,4 @@
-# Obinna_Okolie
+# Obinna Okolie
 Researcher in Oil and Gas processing, Advanced materials and Smart Manufacturing
 
 # Professional Summary
