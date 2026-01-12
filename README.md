@@ -1,4 +1,4 @@
-# Obinna_Okolie.github.io
+# Obinna_Okolie
 Researcher in Oil and Gas processing, Advanced materials and Smart Manufacturing
 
 # Professional Summary
